@@ -1,0 +1,7 @@
+Data Dictionary for kangxi.csv
+
+Fields:
+1 - kangxi radical number
+2 - kangxi radical
+3 - number of strokes
+4 - hanyu pinyin
